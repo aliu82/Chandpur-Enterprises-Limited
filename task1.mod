@@ -1,4 +1,4 @@
-#Group Project Problem 1
+#Group Project Task 1
 #IEOR 162
 #Lily Engel, Ben Lee, Alice Liu, Jessica Richard
 
