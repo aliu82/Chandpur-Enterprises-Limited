@@ -1,8 +1,8 @@
-#Group Project Problem 5
+#Group Project Task 5
 #IEOR 162
 #Lily Engel, Ben Lee, Alice Liu, Jessica Richard
 
-#Load project2.dat before running this program
+#Load task5.dat before running this program
 
 var x{1..7} >= 0; #tons each raw material per month
 var a >= 0; #number batches per month
