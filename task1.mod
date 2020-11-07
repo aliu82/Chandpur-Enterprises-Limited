@@ -2,7 +2,7 @@
 #IEOR 162
 #Lily Engel, Ben Lee, Alice Liu, Jessica Richard
 
-#Load project1.dat before running this program
+#Load task1.dat before running this program
 
 var x{1..7}>=0; #tons each raw material per batch
 
