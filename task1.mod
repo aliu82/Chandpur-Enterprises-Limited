@@ -19,3 +19,4 @@ capacity: sum{i in 1..7} r[i]*x[i] <= 4;  #4000 kg finished product per batch
 
 max_lims {j in 1..7}: x[j] <= maxim[j]*sum{i in 1..7} x[i];  #max limit each raw material per batch
 min_lims {j in 1..7}: x[j] >= minim[j]*sum{i in 1..7} x[i];  #min limit each raw material per batch
+
