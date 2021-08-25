@@ -24,3 +24,4 @@ min_lims {j in 1..7}: x[j] >= minim[j]*sum{i in 1..7} x[i];  #min limit each raw
 max_mons {j in 1..7}: x[j] <= maxmon[j];  #max limit each raw material per month
 
 time: 0.2*a + 0.3* sum{i in 1..7} x[i] <= 600;  #max limit time per month
+
